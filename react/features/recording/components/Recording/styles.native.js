@@ -3,6 +3,7 @@
 import { ColorSchemeRegistry, schemeColor } from '../../../base/color-scheme';
 import { BoxModel, ColorPalette } from '../../../base/styles';
 
+export const ICON_CLOUD = require('../../../../../images/cloud.png');
 export const DROPBOX_LOGO = require('../../../../../images/dropboxLogo_square.png');
 export const ICON_SHARE = require('../../../../../images/icon-users.png');
 export const JITSI_LOGO = require('../../../../../images/jitsiLogo_square.png');
@@ -19,10 +20,6 @@ ColorSchemeRegistry.register('StartRecordingDialogContent', {
     container: {
         flex: 0,
         flexDirection: 'column'
-    },
-
-    controlDisabled: {
-        opacity: 0.5
     },
 
     header: {

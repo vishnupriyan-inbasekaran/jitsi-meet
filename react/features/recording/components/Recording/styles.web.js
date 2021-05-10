@@ -2,6 +2,8 @@
 // (empty) object so that styles[*] statements on Web don't trigger errors.
 export default {};
 
+export const ICON_CLOUD = 'images/cloud.png';
+
 export const DROPBOX_LOGO = 'images/dropboxLogo_square.png';
 
 export const ICON_SHARE = 'images/icon-users.png';

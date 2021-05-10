@@ -643,7 +643,7 @@
         "pending": "Preparing to record the meeting...",
         "rec": "REC",
         "serviceDescription": "Your recording will be saved by the recording service",
-        "serviceDescriptionCloud": "Cloud recording",
+        "serviceDescriptionCloud": "Upload to the cloud",
         "serviceName": "Recording service",
         "signIn": "Sign in",
         "signOut": "Sign out",
